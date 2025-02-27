@@ -1,10 +1,10 @@
 [
   {
     "name": "natalie-approved",
-    "file": "samples/natalie-approved-(nia).mp3",
+    "file": "samples/natalie-approved.mp3",
     "bpm": "86",
     "loop": "1m",
-    "grain": "0.04,
+    "grain": 0.04,
     "overlap": "0.001
   },
   {
@@ -20,7 +20,7 @@
     "file": "samples/ice.mp3",
     "bpm": 120,
     "loop": "1m",
-    "grain": "0.04,
+    "grain": 0.04,
     "overlap": 0.01
   }
 ]
