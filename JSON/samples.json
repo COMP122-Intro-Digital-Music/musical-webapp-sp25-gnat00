@@ -5,7 +5,7 @@
     "bpm": "86",
     "loop": "1m",
     "grain": 0.04,
-    "overlap": "0.001
+    "overlap": 0.001
   },
   {
     "name": "squeak",
